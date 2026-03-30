@@ -1,0 +1,4 @@
+input_data:
+  file_1: "../data/raw/ObesityDataSet_raw_and_data_sinthetic.csv"
+
+output_data:
