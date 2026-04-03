@@ -58,6 +58,7 @@ Parameters tested:
 n_neighbors
 weights
 metric
+
 🔹 Optuna
 Adaptive, intelligent search
 
